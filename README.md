@@ -2,5 +2,7 @@
 
 Mean Average Precision in Information Retrieval:
 https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
+https://gist.github.com/bwhite/3726239
+
 
 
